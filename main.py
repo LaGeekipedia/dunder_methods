@@ -2,8 +2,9 @@ from producto import Producto
 
 producto1 = Producto("Mouse", 20)
 producto2 = Producto("Mouse Genérico", 15)
+
 producto3 = Producto("Mouse Deluxe", 170)
-producto4 = Producto("Mouse Premium", 120)
+producto4 = Producto("Mouse Premium", 110)
 
 # Llamado a __str__
 print(producto1)
