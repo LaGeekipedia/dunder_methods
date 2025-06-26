@@ -1,7 +1,7 @@
 from producto import Producto
 
 producto1 = Producto("Mouse", 20)
-producto2 = Producto("Mouse Premium", 150)
+producto2 = Producto("Mouse Deluxe", 150)
 
 # Llamado a __str__
 print(producto1)
